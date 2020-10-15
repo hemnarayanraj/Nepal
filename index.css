@@ -1,0 +1,76 @@
+#id{
+    box-shadow:1px 2px 3px red;
+	background-color:black;
+	margin:auto;
+	border:1px solid blue;
+	border-radius:29px;
+	height:300px;
+	width:400px;
+	margin-top:60px;
+	overflow:hidden;
+	}
+
+#id:hover{
+	box-shadow:1px 2px 3px blue;
+	background-color:black;
+	margin:auto;
+	border:1px solid yellow;
+	border-radius:29px;
+	height:300px;
+	width:400px;
+	overflow:hidden;
+	margin-top:60px;
+	}
+#hacker{
+	border:1px solid black;
+	width:350px;
+	border-radius:5px;
+	height:180px;
+	box-shadow:1px 2px 3px #999;
+	background-color:red;
+	margin:auto;
+	}
+	
+#hacker:hover{
+	border-radius:5px;
+	box-shadow:1px 2px 3px #999;
+	border:1px solid bluedark;
+	width:350px;
+	height:180px;
+	background-color:#333;
+	margin:auto;
+	}
+#N{
+	background-image: url('img/hacker.png');
+	height:500px;
+	width:950px;
+	border-top:2px solid yellow;
+	border-left:1px solid blue;
+	border-right:1px solid blue;
+	border-bottom:2px solid yellow;
+	border-top-left-radius:800px;
+	border-top-right-radius:800px;	
+	margin:auto;
+	}
+#hehe{
+	text-decoration: none;
+	}
+.log{
+	text-decoration:none;
+	padding-top:2px;
+	border:1px solid black;
+	height:25px;
+	border-radius:20px;
+	background-color:blue;
+	width:100px;
+	texet-color:white;
+	}
+.log:hover{
+	text-decoration:none;
+	padding-top:2px;
+	border:1px solid black;
+	height:25px;
+	background-color:black;
+	border-radius:20px;
+	width:100px;
+	}
